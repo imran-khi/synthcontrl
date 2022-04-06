@@ -1,0 +1,2 @@
+# synthcontrl
+synthetic control data
